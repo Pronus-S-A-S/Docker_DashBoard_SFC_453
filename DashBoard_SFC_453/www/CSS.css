@@ -1,0 +1,155 @@
+@font-face {  
+  src: url(DINPro-Light.ttf);
+  font-family: "DINPro-Light";
+}
+
+h5 {
+	font-family: 'DINPro-Light';
+	font-weight: bold;
+	font-size: 16px;
+	color: #FE4C02;
+}
+
+h4 {
+	font-family: 'DINPro-Light';
+	font-size: 18px;
+	color: #FE4C02;
+}
+
+h3 {
+	font-family: 'DINPro-Light';
+	font-size: 20px;
+	color: #FE4C02;
+}
+
+h2 {
+	font-family: 'DINPro-Light';
+	color: #FE4C02;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+h1 {
+	font-family: 'DINPro-Light';
+	font-weight: bold;
+	font-size: 30px;
+	color: #A21824;
+}
+
+p {
+	font-family: 'DINPro-Light';
+}
+
+
+.navbar-default {
+    background-color: #FE4902 !important;
+    font-family: 'DINPro-Light';
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.navbar-nav a{
+  color: white !important;
+  font-family: 'DINPro-Light';
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.navbar-nav > .active > a{
+  color: #FE4902 !important;
+  background-color: #E7E6E6 !important;
+  font-family: 'DINPro-Light';
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+.dropdown-menu a{
+  color: #FE4902 !important;
+  font-family: 'DINPro-Light';
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.dropdown-menu > .active > a{
+  color: #FE4902 !important;
+  background-color: #E7E6E6 !important;
+  font-family: 'DINPro-Light';
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn-primary {
+  color: #ffffff;
+  background-color: #FE4902;
+  border-color: #FE4902;
+}
+
+.panel-primary {
+  border-color: #FE4902;
+}
+              
+.btn-primary:hover {
+  background-color: #E7E6E6;
+  border-color: #E7E6E6;
+  color: #FE4902;
+  cursor: pointer;
+}
+
+.btn-primary:focus{
+  background-color: #E7E6E6 !important;
+  border-color: #E7E6E6 !important;
+  color: #FE4902 !important;
+  cursor: pointer;
+}
+
+.btn-primary:visited{
+  background-color: #E7E6E6 !important;
+  border-color: #E7E6E6 !important;
+  color: #FE4902 !important;
+  cursor: pointer;
+}
+
+body{
+  font-family: 'DINPro-Light';
+  font-size: 18px;
+}
+
+input {
+  color: #9A9A9A!important;
+  font-family: 'DINPro-Light';
+}
+
+a:link {
+  color: #FE4902;
+}
+
+input:focus{
+  border-color: #9A9A9A !important;
+  box-shadow: 5px 5px #9A9A9A !important;
+}
+
+
+p{
+  font-family: 'DINPro-Light';
+  font-size: 16px;
+  color: #4e4e4e !important;
+}
+
+.well{
+  border-color: #E7E6E6;
+  background-color: #ffff !important;
+}
+
+.well:hover{
+  border-color: #E7E6E6;
+  background-color: #E7E6E6 !important;
+}
+
+.card{
+  border-color: #E7E6E6;
+  background-color: #E7E6E6 !important;
+}
+
+
+
